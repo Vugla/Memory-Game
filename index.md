@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Description
 
-You can use the [editor on GitHub](https://github.com/Vugla/Memory-Game---Animals-Sounds/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A fun memory game for all ages. It has varying difficulties, which range from 6 to 32 pairs of cute animals, accompanied with respective sounds.
+Suitable for toddlers, but you can have fun and be challenged as well.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This game was developed for my 1 year old niece. Now she is 2 years old, and we had quite some fun with it. At first it was fun for her to hear different animal sounds. Later on she started recognizing different animals, and started matching up the pairs. 
+In the beginning game had only the easiest mode - 6 pairs. Now, however, 6 pairs is just too easy for her, so it was time for something more challenging. That inspired me to enrich this game with some more difficulty levels. 
+It now even has a timed mode, so some of us adults can have fun and get challenged as well.
+My niece at the moment is playing with 8 pairs, which are a decent challenge at this point - and she is still having fun, proudly raising her hands up when she matches 2 animals and stating something like: "Doggy is gone!". Ofcourse, sound is still always on.
 
-### Markdown
+Hope you and your youngest will have fun and enjoy this game as much as we did!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Privacy Policy
 
-```markdown
-Syntax highlighted code block
+### We Collect No Personal Information Using Our Application
 
-# Header 1
-## Header 2
-### Header 3
+We do not collect, use, save, or have access to any of your personal data in Memory Game - Animals & Sounds.
 
-- Bulleted
-- List
+## Support or Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Vugla/Memory-Game---Animals-Sounds/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Memory Game - Animals & Sound? Have some suggestions? [Contact us](memorygameanimals@gmail.com)
